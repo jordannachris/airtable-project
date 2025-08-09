@@ -2,6 +2,8 @@
 
 A React TypeScript timeline component that visualizes items in a compact, space-efficient horizontal layout.
 
+![timeline-working](https://github.com/user-attachments/assets/aac2d4bc-aab3-440a-aa38-96c284904b8f)
+
 ## Features
 
 - **Compact Lane Assignment**: Items that don't overlap share lanes to maximize space efficiency
