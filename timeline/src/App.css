@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.timeline-container {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    sans-serif;
+}
+
+.timeline-content {
+  position: relative;
+}
+
+.timeline-content::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+
+.timeline-content::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.timeline-content::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+.timeline-content::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
